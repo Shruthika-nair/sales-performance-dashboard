@@ -5,7 +5,8 @@ An interactive **Power BI** dashboard analyzing chocolate sales data across mult
 ## Dashboard Preview
 
 ### Page 1 — Boxes Shipped Overview
-![Page 1 — Boxes by Country & Sales Person](screenshots/page1-boxes-by-country.jpg)
+![Page 1 — Boxes by Country & Sales Person](<img width="1249" height="712" alt="image" src="https://github.com/user-attachments/assets/621c33e6-a5f5-4b6a-b7bf-2c0ed2ed4d90" />
+)
 
 **Key visuals:**
 - **Sum of Boxes by Country** — Bar chart comparing shipment volumes across Canada, UK, USA, India, Australia, and New Zealand
